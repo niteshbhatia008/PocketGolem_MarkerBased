@@ -1,6 +1,6 @@
 # PocketGolem
 
-I.PURPOSE:
+I. PURPOSE:
 
 Smartphone-enabled Augmented Reality app that spawns a golem that reacts to vocalised keywords. Created in Unity using Vuforia and IBM Watson SDK.
 
